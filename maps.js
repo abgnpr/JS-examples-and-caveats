@@ -14,8 +14,8 @@ users.set('usr1', John);
 users.set('usr2', Mary);
 users.set('usr3', Samy);
 
-// Creating maps using an array of arrays
-// containing [key, object] pairs.
+// Creating maps using an array of arrays 
+// of [key, object] pairs.
 var arrOfArrs = [['one', 1], ['two', 2], ['three', 3]];
 var numbers = new Map(arrOfArrs);
 console.log(numbers);

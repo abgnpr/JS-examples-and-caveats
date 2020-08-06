@@ -1,4 +1,4 @@
-// CRUD using the localStorage
+// CRUD in the localStorage
 //    Note: only key-value pairs can be stored in local storage.
 
 /* create */
